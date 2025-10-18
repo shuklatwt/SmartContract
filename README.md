@@ -1,4 +1,3 @@
-<img width="1891" height="911" alt="Screenshot 2025-10-18 121926" src="https://github.com/user-attachments/assets/bd45b5ab-fe50-4c51-a7af-e0def9305143" />
 # 🧮 Counter Smart Contract
 
 A simple smart contract that implements a basic counter functionality with the ability to increment, decrement, and reset its value.
@@ -96,3 +95,5 @@ contract Counter {
 ## 🪪 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+<img width="1891" height="911" alt="Screenshot 2025-10-18 121926" src="https://github.com/user-attachments/assets/bd45b5ab-fe50-4c51-a7af-e0def9305143" />
