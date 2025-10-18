@@ -2,6 +2,7 @@
 
 A simple smart contract that implements a basic counter functionality with the ability to increment, decrement, and reset its value.
 
+![Uploading Screenshot 2025-10-18 121926.png…]()
 ---
 
 ## 🪧 Project Overview
